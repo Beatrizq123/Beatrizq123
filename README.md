@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Beatrizq123
 - 👀 I’m interested in learn, knowledge is everything!
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Python and C.
-- 📫 How to reach me [...](https://www.instagram.com/beatrizqa52/)
+- 📫 How to reach me www.linkedin.com/in/beatriz-quaresma-05451a22b
 
 <!---
 Beatrizq123/Beatrizq123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
