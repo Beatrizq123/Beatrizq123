@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Beatrizq123
+- 👋 Hi, I’m @Beatriz
 - 👀 I’m interested in learn, knowledge is everything!
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Python and C.
 - 📫 How to reach me www.linkedin.com/in/beatriz-quaresma-05451a22b
